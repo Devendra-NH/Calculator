@@ -3,6 +3,7 @@ import  parser
 
 root = Tk()
 root.title('Calculator')
+root.geometry("1024x768")
 
 #get user input & place it on display
 
